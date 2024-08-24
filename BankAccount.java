@@ -7,7 +7,5 @@ public class BankAccount {
       boolean canPurchaseTicket = amountForEachFriend >= 250;
       System.out.println(canPurchaseTicket);
       System.out.println("I gave each friend " + amountForEachFriend);
-
-      
     }       
 }
